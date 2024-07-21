@@ -1,5 +1,5 @@
 # gimpoGothic
-김포평화고딕체
+김포평화 고딕체
 
 <pre>
 @font-face {
